@@ -1,6 +1,5 @@
 # 
 
-Changes made via gptengineer.app will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
