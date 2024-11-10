@@ -57,13 +57,5 @@ This project is built with .
 - Vite
 - TypeScript
 - React
-- shadcn-ui
-- Tailwind CSS
-
-
-All GPT Engineer projects can be deployed directly via the GPT Engineer app.
-
-
-
 
 
