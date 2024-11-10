@@ -63,7 +63,7 @@ This project is built with .
 
 All GPT Engineer projects can be deployed directly via the GPT Engineer app.
 
-Simply visit your project at [GPT Engineer](https://gptengineer.app/projects/94e3ff97-5f5b-4e8c-99f1-237bdc04f38d/improve) and click on Share -> Publish.
+
 
 
 
