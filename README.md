@@ -1,9 +1,5 @@
 # 
 
-
-
-Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/94e3ff97-5f5b-4e8c-99f1-237bdc04f38d/improve) and start prompting.
-
 Changes made via gptengineer.app will be committed automatically to this repo.
 
 **Use your preferred IDE**
