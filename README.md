@@ -16,7 +16,7 @@
 
 
 
-- Make your changes and commit the changes.
+
 
 **Use GitHub Codespaces**
 
