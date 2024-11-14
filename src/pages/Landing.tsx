@@ -8,15 +8,6 @@ const Landing = () => {
     <div 
       className="min-h-screen bg-gradient-to-b from-gray-900 via-purple-900 to-gray-900 flex flex-col items-center justify-center relative"
     >
-      {/* Background image with overlay */}
-      <div 
-        className="absolute inset-0 bg-cover bg-center z-0"
-        style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7")',
-          opacity: '0.2'
-        }}
-      />
-
       {/* Content */}
       <div className="z-10 text-center space-y-8 px-4 max-w-3xl">
         <h1 className="text-6xl font-bold text-white tracking-tight">
